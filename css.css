@@ -2,11 +2,11 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f0f0f0;
+    background-color: #000000;
 }
 
 header {
-    background-color: #4CAF50;
+    background-color: #375eb1;
     color: white;
     padding: 1em;
     text-align: center;
@@ -34,7 +34,7 @@ main {
 }
 
 button {
-    background-color: #4CAF50;
+    background-color: #375eb1;
     color: white;
     border: none;
     padding: 1em;
@@ -43,5 +43,5 @@ button {
 }
 
 button:hover {
-    background-color: #45a049;
+    background-color: #275dd2;
 }
